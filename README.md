@@ -7,7 +7,7 @@ I build scalable and functional web applications with Python, Django, HTML, CSS,
 
 ##  Featured Projects  
 
-###  [Job Sphere Web App](https://jobsphere-3kdi.onrender.com/)  
+###  [JobSphere](https://jobsphere-3kdi.onrender.com/)  
 A Django-powered job marketplace where employers can post jobs and job seekers can apply.  
 - Features: authentication, profile completion, job search/filter, applications, messaging system, notifications.  
 - Tech: Django, Python, HTML, CSS, JavaScript, SQLite/PostgreSQL.  
