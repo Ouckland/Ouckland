@@ -1,13 +1,13 @@
 # Hi, I'm Korede 👋  
 
 **Python/Django Web Developer**  
-I build scalable and functional web applications with Python, Django, HTML, CSS, and JavaScript. Currently refining my **Job Board Web App** and working on my personal **Portfolio website**.  
+I build scalable and functional web applications with Python, Django, HTML, CSS, and JavaScript. Currently refining my **JobSphere Web App** and working on my personal **Portfolio website**.  
 
 ---
 
 ##  Featured Projects  
 
-###  Job Sphere Web App *(In Progress)*  
+###  [Job Sphere Web App](https://jobsphere-3kdi.onrender.com/)  
 A Django-powered job marketplace where employers can post jobs and job seekers can apply.  
 - Features: authentication, profile completion, job search/filter, applications, messaging system, notifications.  
 - Tech: Django, Python, HTML, CSS, JavaScript, SQLite/PostgreSQL.  
@@ -15,7 +15,7 @@ A Django-powered job marketplace where employers can post jobs and job seekers c
 
 ---
 
-### 🛒 [Ayoze Store (E-commerce)](https://ayoze-store.onrender.com/)  
+### [Ayoze Store (E-commerce)](https://ayoze-store.onrender.com/)  
 An online clothing store built with Django, featuring a session-based cart system.  
 - Features: product browsing, add-to-cart, checkout, responsive design.  
 - Tech: Django, Python, HTML, CSS.  
