@@ -1,7 +1,7 @@
 # Hi, I'm Korede 👋  
 
 **Python/Django Web Developer**  
-I build scalable and functional web applications with Python, Django, HTML, CSS, and JavaScript. Currently refining my **JobSphere Web App** and working on my personal **Portfolio website**.  
+I build scalable and functional web applications with Python, Django, HTML, CSS, and JavaScript. Currently working on my personal **Portfolio website**.  
 
 ---
 
