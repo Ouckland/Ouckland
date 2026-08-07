@@ -1,153 +1,230 @@
 # 👋 Hi, I'm Korede Isele
 
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Frontend](https://img.shields.io/badge/Frontend-HTML%2FCSS%2FJS-F16529?style=for-the-badge\&logo=html5\&logoColor=white)
-![Deployed](https://img.shields.io/badge/Deployment-Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
+Backend-focused full-stack developer building **real-world digital products** with Python, Django, and modern web technologies.
+
+I enjoy turning ideas into production-ready platforms — from student housing marketplaces and recruitment systems to education and commerce applications.
+
+Currently building **RentBeta**, a student accommodation platform focused on making housing discovery simpler, safer, and more transparent.
 
 ---
 
-##  About Me
+## 🚀 About Me
 
-I’m a **Python/Django web developer** focused on building **real-world, scalable platforms** that solve meaningful problems.
+I'm a developer passionate about building systems that solve practical problems.
 
-I specialize in:
+My focus areas include:
 
-* Backend systems & APIs
-* Marketplace platforms
-* Authentication & role-based systems
-* Data-driven web applications
+- Backend architecture and APIs
+- Marketplace platforms
+- Authentication and role-based systems
+- Payment workflows
+- Data-driven applications
+- Scalable web platforms
 
-Currently building my flagship product: **RentBeta** 
-
-
-##  Flagship Project
-
-#  RentBeta — Student Housing Platform (Startup Project)
-
-**Live Platform:** [https://rentbeta.click](https://rentbeta.click)
-
-A hyper-local student accommodation discovery platform that connects students with verified hostels while helping landlords fill vacancies faster.
-
-> Built around one principle: **value is only monetized when real connections happen.**
+I care about building products that are not only functional, but also designed around real user needs and business logic.
 
 ---
 
-###  Core Features
+# 🏗️ Featured Project
 
-####  Student Side
+## RentBeta — Student Housing Platform
 
-* Hyper-local hostel discovery (street-level filtering)
-* Image + video hostel galleries
-* Pay-per-connect system (unlock landlord contact)
-* Save & share listings
-* Mobile-first browsing experience
+🌐 **Live:** https://rentbeta.click
 
-####  Landlord Side
+RentBeta is a hyper-local student accommodation platform connecting students with verified hostels while helping landlords reach qualified tenants.
 
-* Free hostel listing system
-* Real-time engagement analytics (views, interest)
-* Verified badge system
-* Availability & pricing management
+The goal is simple:
 
-####  Platform Engine
+> Make finding student accommodation faster, safer, and more transparent.
 
-* Django-based marketplace architecture
-* Connect credit system (wallet-style model)
-* Media system powered by Cloudinary
-* Role-based authentication (Student / Landlord / Caretaker)
-* Local area intelligence system
+### Key Features
 
----
+### 🎓 Student Experience
 
-###  Vision
+- Hyper-local hostel discovery
+- Location-based filtering
+- Hostel image galleries
+- Listing saves and sharing
+- Student-friendly browsing experience
+- Contact unlocking system
 
-RentBeta is building the **most trusted student housing infrastructure in Abeokuta** — where:
+### 🏠 Landlord Experience
 
-* Students find housing faster and safer
-* Landlords get real qualified demand
-* Trust replaces uncertainty in rental discovery
+- Hostel listing management
+- Listing analytics
+- Verification system
+- Availability and pricing management
+- Demand insights
 
----
+### ⚙️ Platform Architecture
 
-###  Tech Stack
-
-* Django (Backend)
-* Python
-* JavaScript (Vanilla)
-* HTML / CSS (Custom UI system)
-* PostgreSQL / SQLite
-* Cloudinary (Media storage)
-* Paystack / Flutterwave (in progress)
+- Django-powered backend
+- Role-based authentication
+- Marketplace workflow
+- Media management system
+- Connect-credit model
+- Cloud-based asset storage
+- PostgreSQL database
 
 ---
 
-##  Other Projects
+## Other Projects
 
 ---
 
-### 💼 JobSphere
+## 💼 JobSphere — Recruitment Marketplace
 
-🔗 [https://jobsphere-3kdi.onrender.com](https://jobsphere-3kdi.onrender.com)
+🔗 https://jobsphere-3kdi.onrender.com
 
-A job marketplace connecting employers and job seekers.
+A recruitment platform connecting employers and job seekers.
 
-* Authentication + profiles
-* Job search & filtering
-* Messaging system
-* Application tracking
+Features:
 
-**Stack:** Django, Python, JS, HTML, CSS
+- User authentication
+- Employer and candidate profiles
+- Job posting system
+- Search and filtering
+- Application tracking
+- Dashboard workflows
 
----
+**Stack**
 
-###  Ayoze Store (E-commerce)
-
-🔗 [https://ayoze-store.onrender.com](https://ayoze-store.onrender.com)
-
-A Django-based clothing store with session-based cart system.
-
-* Product browsing
-* Add to cart / checkout
-* Responsive UI
-
-**Stack:** Django, Python, HTML, CSS
+`Django` `Python` `JavaScript` `HTML` `CSS`
 
 ---
 
-###  Portfolio Website (Coming Soon)
+## 🛒 Ayoze Store — E-commerce Platform
 
-Personal developer portfolio showcasing:
+🔗 https://ayoze-store.onrender.com
 
-* Projects
-* Skills
-* Case studies
-* Contact system
+A full-stack clothing store built with Django.
 
----
+Features:
 
-## ⚙️ Tech Stack Summary
+- Product catalog
+- Shopping cart system
+- Session-based cart management
+- Responsive interface
+- Order workflow
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render\&logoColor=black)
+**Stack**
+
+`Django` `Python` `HTML` `CSS`
 
 ---
 
-##  GitHub Stats
+## 🎓 Everest Freedom Academy
 
-![Korede's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ouckland\&show_icons=true\&theme=tokyonight)
+An education and financial ecosystem platform designed around learning management and user financial workflows.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ouckland\&layout=compact\&theme=tokyonight)
+Built around concepts such as:
 
+- User accounts
+- Payment systems
+- Wallet logic
+- Referral systems
+- Transaction tracking
 
-## Contact
+**Stack**
 
-* Email: [iselekorede5@gmail.com](mailto:iselekorede5@gmail.com)
-* LinkedIn: [Korede Isele](https://www.linkedin.com/in/korede-isele-944016297/)
-* GitHub: [@Ouckland](https://github.com/Ouckland)
+`Django` `Python` `PostgreSQL`
 
 ---
+
+## 🌐 Developer Portfolio
+
+🔗 https://decoded-decoded1.vercel.app
+
+An interactive portfolio experience showcasing my products and engineering journey.
+
+Features:
+
+- Interactive 3D globe experience
+- Project showcase
+- Responsive design
+- Modern animations
+- Case-study style presentation
+
+**Stack**
+
+`React` `TanStack Start` `Three.js` `Tailwind CSS`
+
+---
+
+# 🧰 Tech Stack
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+
+- Python
+- Django
+- Django REST concepts
+- PostgreSQL
+- SQLite
+- Authentication systems
+- API development
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+- JavaScript
+- React
+- HTML
+- CSS
+- Tailwind CSS
+- Three.js
+
+### Tools & Infrastructure
+
+- Git & GitHub
+- Cloudinary
+- Render
+- Vercel
+- Linux
+- Database design
+
+---
+
+# 📚 Currently Exploring
+
+- Machine Learning with Python
+- Data analysis workflows
+- System design
+- Scalable backend architecture
+- Building SaaS products
+
+---
+
+# 📊 GitHub Stats
+
+![Korede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ouckland&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ouckland&layout=compact&theme=transparent)
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to:
+
+- Building products
+- Backend development opportunities
+- Freelance collaborations
+- Interesting technical discussions
+
+📧 Email: [iselekorede5@gmail.com](mailto:iselekorede5@gmail.com)
+
+💼 LinkedIn: [Korede Isele](https://www.linkedin.com/in/korede-isele-944016297/)
+
+🐙 GitHub: [@Ouckland](https://github.com/Ouckland)
+
+🐦 X: [@the_code_head](https://x.com/the_code_head)
+
+---
+
+⭐ Thanks for visiting my profile.
