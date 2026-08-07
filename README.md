@@ -1,82 +1,120 @@
-# 👋 Hi, I'm Korede Isele
+# Korede Isele
 
-Backend-focused full-stack developer building **real-world digital products** with Python, Django, and modern web technologies.
+Backend-focused full-stack developer building scalable digital products and real-world platforms.
 
-I enjoy turning ideas into production-ready platforms — from student housing marketplaces and recruitment systems to education and commerce applications.
-
-Currently building **RentBeta**, a student accommodation platform focused on making housing discovery simpler, safer, and more transparent.
+I design and build systems that solve practical problems — from student accommodation platforms and education systems to commerce and recruitment products.
 
 ---
 
-## 🚀 About Me
+## <img src="https://unpkg.com/lucide-static@latest/icons/user-round.svg" width="20"/> About Me
 
-I'm a developer passionate about building systems that solve practical problems.
+I’m a Python/Django developer focused on building reliable backend systems and complete web applications.
 
-My focus areas include:
+My core interests:
 
-- Backend architecture and APIs
+- Backend architecture
+- API development
 - Marketplace platforms
-- Authentication and role-based systems
-- Payment workflows
+- Authentication and authorization systems
 - Data-driven applications
-- Scalable web platforms
+- SaaS products
 
-I care about building products that are not only functional, but also designed around real user needs and business logic.
+Currently building and improving **RentBeta**, a student accommodation platform focused on making hostel discovery easier and more trustworthy.
 
 ---
 
-# 🏗️ Featured Project
+# <img src="https://unpkg.com/lucide-static@latest/icons/rocket.svg" width="20"/> Featured Projects
 
-## RentBeta — Student Housing Platform
+## <img src="https://unpkg.com/lucide-static@latest/icons/globe.svg" width="18"/> Developer Portfolio
 
-🌐 **Live:** https://rentbeta.click
+**Live:** https://decoded-decoded1.vercel.app/
+
+An interactive developer portfolio showcasing the products, systems, and applications I have built.
+
+The portfolio focuses on presenting projects as products — highlighting their purpose, architecture, and the problems they solve.
+
+Features:
+
+- Interactive project showcase
+- Product case studies
+- Animated 3D experience
+- Responsive design
+- Developer profile and contact system
+
+Tech stack:
+
+- React
+- TanStack Start
+- TypeScript
+- Tailwind CSS
+- Three.js
+
+
+---
+
+## <img src="https://unpkg.com/lucide-static@latest/icons/building-2.svg" width="18"/> RentBeta — Student Housing Platform
+
+**Live:** https://rentbeta.click
 
 RentBeta is a hyper-local student accommodation platform connecting students with verified hostels while helping landlords reach qualified tenants.
 
-The goal is simple:
+Built around the idea that value is created when real connections happen.
 
-> Make finding student accommodation faster, safer, and more transparent.
-
-### Key Features
-
-### 🎓 Student Experience
+### Student Experience
 
 - Hyper-local hostel discovery
-- Location-based filtering
-- Hostel image galleries
-- Listing saves and sharing
-- Student-friendly browsing experience
+- Hostel image and video galleries
+- Search and filtering
+- Listing sharing
 - Contact unlocking system
 
-### 🏠 Landlord Experience
+### Landlord Experience
 
 - Hostel listing management
-- Listing analytics
+- Engagement tracking
 - Verification system
-- Availability and pricing management
-- Demand insights
+- Availability management
 
-### ⚙️ Platform Architecture
+### Platform Architecture
 
-- Django-powered backend
+- Django backend
 - Role-based authentication
-- Marketplace workflow
-- Media management system
-- Connect-credit model
-- Cloud-based asset storage
 - PostgreSQL database
+- Cloudinary media management
+- Payment infrastructure integration
 
 ---
 
-## Other Projects
+## <img src="https://unpkg.com/lucide-static@latest/icons/graduation-cap.svg" width="18"/> Everest Freedom Academy
+
+**Live:** https://everest-freedom-academy.com
+
+An education and financial ecosystem platform designed to manage learning, applications, payments, referrals, and user progression.
+
+Features:
+
+- Learning management system
+- Authentication system
+- Financial ecosystem
+- Payment tracking
+- Referral management
+- User dashboards
+
+Tech stack:
+
+- Django
+- Python
+- PostgreSQL
+- JavaScript
+- HTML/CSS
 
 ---
 
-## 💼 JobSphere — Recruitment Marketplace
+## <img src="https://unpkg.com/lucide-static@latest/icons/briefcase.svg" width="18"/> JobSphere
 
-🔗 https://jobsphere-3kdi.onrender.com
+**Live:** https://jobsphere-3kdi.onrender.com
 
-A recruitment platform connecting employers and job seekers.
+A recruitment marketplace connecting employers and job seekers.
 
 Features:
 
@@ -85,146 +123,131 @@ Features:
 - Job posting system
 - Search and filtering
 - Application tracking
-- Dashboard workflows
+- Messaging workflows
 
-**Stack**
+Tech stack:
 
-`Django` `Python` `JavaScript` `HTML` `CSS`
-
----
-
-## 🛒 Ayoze Store — E-commerce Platform
-
-🔗 https://ayoze-store.onrender.com
-
-A full-stack clothing store built with Django.
-
-Features:
-
-- Product catalog
-- Shopping cart system
-- Session-based cart management
-- Responsive interface
-- Order workflow
-
-**Stack**
-
-`Django` `Python` `HTML` `CSS`
-
----
-
-## 🎓 Everest Freedom Academy
-
-An education and financial ecosystem platform designed around learning management and user financial workflows.
-
-Built around concepts such as:
-
-- User accounts
-- Payment systems
-- Wallet logic
-- Referral systems
-- Transaction tracking
-
-**Stack**
-
-`Django` `Python` `PostgreSQL`
-
----
-
-## 🌐 Developer Portfolio
-
-🔗 https://decoded-decoded1.vercel.app
-
-An interactive portfolio experience showcasing my products and engineering journey.
-
-Features:
-
-- Interactive 3D globe experience
-- Project showcase
-- Responsive design
-- Modern animations
-- Case-study style presentation
-
-**Stack**
-
-`React` `TanStack Start` `Three.js` `Tailwind CSS`
-
----
-
-# 🧰 Tech Stack
-
-### Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-- Python
 - Django
-- Django REST concepts
-- PostgreSQL
-- SQLite
-- Authentication systems
-- API development
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
+- Python
 - JavaScript
-- React
-- HTML
-- CSS
-- Tailwind CSS
-- Three.js
+- HTML/CSS
 
-### Tools & Infrastructure
 
-- Git & GitHub
-- Cloudinary
-- Render
-- Vercel
-- Linux
+---
+
+## <img src="https://unpkg.com/lucide-static@latest/icons/shopping-bag.svg" width="18"/> Ayoze Store
+
+**Live:** https://ayoze-store.onrender.com
+
+A Django-based e-commerce platform built for online clothing sales.
+
+Features:
+
+- Product browsing
+- Session-based cart
+- Checkout flow
+- Responsive interface
+
+Tech stack:
+
+- Django
+- Python
+- HTML/CSS
+- JavaScript
+
+
+---
+
+## <img src="https://unpkg.com/lucide-static@latest/icons/school.svg" width="18"/> CS+
+
+A school result management system designed to simplify student result processing and report card generation.
+
+Features:
+
+- School account management
+- Student result processing
+- Report generation
+- Administrative workflows
+
+---
+
+# <img src="https://unpkg.com/lucide-static@latest/icons/layers.svg" width="20"/> Tech Stack
+
+## Backend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> Python
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="25"/> Django
+
+- REST APIs
+- Authentication systems
+- Database architecture
+- Business logic
+
+
+## Frontend
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> JavaScript
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> HTML
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> CSS
+
+- Responsive interfaces
+- Interactive components
+- UI systems
+
+
+## Database & Infrastructure
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25"/> PostgreSQL
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25"/> Git
+
 - Database design
+- Deployment workflows
+- Cloud services
+- Version control
+
 
 ---
 
-# 📚 Currently Exploring
+# <img src="https://unpkg.com/lucide-static@latest/icons/code-2.svg" width="20"/> What I Build
 
-- Machine Learning with Python
-- Data analysis workflows
-- System design
-- Scalable backend architecture
-- Building SaaS products
+I enjoy creating:
 
----
+- SaaS platforms
+- Marketplaces
+- Education systems
+- Internal business tools
+- Automation systems
+- Data-driven applications
 
-# 📊 GitHub Stats
-
-![Korede's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ouckland&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ouckland&layout=compact&theme=transparent)
 
 ---
 
-# 🤝 Let's Connect
+# <img src="https://unpkg.com/lucide-static@latest/icons/activity.svg" width="20"/> Currently
 
-I'm open to:
-
-- Building products
-- Backend development opportunities
-- Freelance collaborations
-- Interesting technical discussions
-
-📧 Email: [iselekorede5@gmail.com](mailto:iselekorede5@gmail.com)
-
-💼 LinkedIn: [Korede Isele](https://www.linkedin.com/in/korede-isele-944016297/)
-
-🐙 GitHub: [@Ouckland](https://github.com/Ouckland)
-
-🐦 X: [@the_code_head](https://x.com/the_code_head)
+Building products, improving system architecture, and exploring better ways to create software that solves real-world problems.
 
 ---
 
-⭐ Thanks for visiting my profile.
+# <img src="https://unpkg.com/lucide-static@latest/icons/mail.svg" width="20"/> Contact
+
+Email:
+[iselekorede5@gmail.com](mailto:iselekorede5@gmail.com)
+
+LinkedIn:
+[Korede Isele](https://www.linkedin.com/in/korede-isele-944016297/)
+
+GitHub:
+[@Ouckland](https://github.com/Ouckland)
+
+X:
+[@the_code_head](https://x.com/the_code_head)
+
+---
+
+<p align="center">
+Built with curiosity, code, and a focus on solving real problems.
+</p>
