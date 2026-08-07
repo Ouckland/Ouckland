@@ -87,7 +87,7 @@ Built around the idea that value is created when real connections happen.
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/graduation-cap.svg" width="18"/> Everest Freedom Academy
 
-**Live:** https://everest-freedom-academy.com
+**Live:** https://everest-freedom-academy.onrender.com
 
 An education and financial ecosystem platform designed to manage learning, applications, payments, referrals, and user progression.
 
